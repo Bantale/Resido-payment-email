@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Lora&display=swap');
+body{
+    background-color: black;
+    margin: 30%;
+}
+.maincontainer{
+    background-color: #ffffff;
+    padding: 8%;
+    position: relative;
+}
+.payment-details{
+    padding-top: 2%;
+    /* border: 1px solid black */
+}
+.apartment-details{
+    padding-top: 4%;
+    /* border: 1px solid black */
+}
+.footer{
+    padding-top: 3%;
+    /* border: 1px solid black */
+}
+img{
+    width: 117px;
+    height: 40px;
+    position: static;
+    top: 18%;
+}
+h4{
+    font-family: lora;
+    font-weight: 900;
+    font-size: 13px;
+    line-height: 20.48px;
+    color: #121113;
+}
+p{
+    font-family: lato;
+    font-weight: 400;
+    font-size: 12px;
+    /* line-height: 19.2px; */
+    color: #121113;
+    padding-bottom: 1.5%;
+}
+h5{
+    font-family: lato;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    color: #63636F;
+}
